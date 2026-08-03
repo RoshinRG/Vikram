@@ -4,7 +4,3 @@ Thumbs.db
 *.swp
 .vscode/
 .idea/
-
-# Unused / large local assets (not required for the site)
-Video-62520.mp4
-vikram-logo-JtdtMSwJAE7MwMcQ.jpg
